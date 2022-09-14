@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U5 (Insert)\bin\Debug\U5 (Insert).exe.config
+C:\Users\Tatiana\source\repos\U5 (Insert)\bin\Debug\U5 (Insert).exe
+C:\Users\Tatiana\source\repos\U5 (Insert)\bin\Debug\U5 (Insert).pdb
+C:\Users\Tatiana\source\repos\U5 (Insert)\obj\Debug\U5 (Insert).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U5 (Insert)\obj\Debug\U5 (Insert).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U5 (Insert)\obj\Debug\U5 (Insert).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U5 (Insert)\obj\Debug\U5 (Insert).exe
+C:\Users\Tatiana\source\repos\U5 (Insert)\obj\Debug\U5 (Insert).pdb

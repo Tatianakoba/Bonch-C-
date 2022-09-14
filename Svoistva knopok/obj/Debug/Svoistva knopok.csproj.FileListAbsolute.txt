@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Svoistva knopok\bin\Debug\Svoistva knopok.exe.config
+C:\Users\Tatiana\source\repos\Svoistva knopok\bin\Debug\Svoistva knopok.exe
+C:\Users\Tatiana\source\repos\Svoistva knopok\bin\Debug\Svoistva knopok.pdb
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva_knopok.Form1.resources
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva_knopok.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.exe
+C:\Users\Tatiana\source\repos\Svoistva knopok\obj\Debug\Svoistva knopok.pdb

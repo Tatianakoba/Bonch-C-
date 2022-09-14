@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\bin\Debug\Mas7 (Zub).exe.config
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\bin\Debug\Mas7 (Zub).exe
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\bin\Debug\Mas7 (Zub).pdb
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\obj\Debug\Mas7 (Zub).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\obj\Debug\Mas7 (Zub).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\obj\Debug\Mas7 (Zub).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\obj\Debug\Mas7 (Zub).exe
+C:\Users\Tatiana\source\repos\Mas7 (Zub)\obj\Debug\Mas7 (Zub).pdb

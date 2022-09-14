@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.Form1.resources
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Функция\bin\Debug\Функция.exe.config
+C:\Users\Tatiana\source\repos\Функция\bin\Debug\Функция.exe
+C:\Users\Tatiana\source\repos\Функция\bin\Debug\Функция.pdb
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.exe
+C:\Users\Tatiana\source\repos\Функция\obj\Debug\Функция.pdb

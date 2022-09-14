@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Candies\bin\Debug\Candies.exe.config
+C:\Users\Tatiana\source\repos\Candies\bin\Debug\Candies.exe
+C:\Users\Tatiana\source\repos\Candies\bin\Debug\Candies.pdb
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.Form1.resources
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.exe
+C:\Users\Tatiana\source\repos\Candies\obj\Debug\Candies.pdb

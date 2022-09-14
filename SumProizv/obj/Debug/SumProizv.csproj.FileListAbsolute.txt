@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\SumProizv\bin\Debug\SumProizv.exe.config
+C:\Users\Tatiana\source\repos\SumProizv\bin\Debug\SumProizv.exe
+C:\Users\Tatiana\source\repos\SumProizv\bin\Debug\SumProizv.pdb
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.Form1.resources
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.exe
+C:\Users\Tatiana\source\repos\SumProizv\obj\Debug\SumProizv.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Byte\bin\Debug\Byte.exe.config
+C:\Users\Tatiana\source\repos\Byte\bin\Debug\Byte.exe
+C:\Users\Tatiana\source\repos\Byte\bin\Debug\Byte.pdb
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.Form1.resources
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.exe
+C:\Users\Tatiana\source\repos\Byte\obj\Debug\Byte.pdb

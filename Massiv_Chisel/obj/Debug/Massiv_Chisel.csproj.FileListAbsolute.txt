@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.Form1.resources
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Massiv_Chisel\bin\Debug\Massiv_Chisel.exe.config
+C:\Users\Tatiana\source\repos\Massiv_Chisel\bin\Debug\Massiv_Chisel.exe
+C:\Users\Tatiana\source\repos\Massiv_Chisel\bin\Debug\Massiv_Chisel.pdb
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.exe
+C:\Users\Tatiana\source\repos\Massiv_Chisel\obj\Debug\Massiv_Chisel.pdb

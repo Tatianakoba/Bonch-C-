@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\MaxMin\bin\Debug\MaxMin.exe.config
+C:\Users\Tatiana\source\repos\MaxMin\bin\Debug\MaxMin.exe
+C:\Users\Tatiana\source\repos\MaxMin\bin\Debug\MaxMin.pdb
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.Form1.resources
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.exe
+C:\Users\Tatiana\source\repos\MaxMin\obj\Debug\MaxMin.pdb

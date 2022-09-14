@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\DZ Registr\bin\Debug\DZ Registr.exe.config
+C:\Users\Tatiana\source\repos\DZ Registr\bin\Debug\DZ Registr.exe
+C:\Users\Tatiana\source\repos\DZ Registr\bin\Debug\DZ Registr.pdb
+C:\Users\Tatiana\source\repos\DZ Registr\obj\Debug\DZ Registr.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ Registr\obj\Debug\DZ Registr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ Registr\obj\Debug\DZ Registr.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ Registr\obj\Debug\DZ Registr.exe
+C:\Users\Tatiana\source\repos\DZ Registr\obj\Debug\DZ Registr.pdb

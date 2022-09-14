@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U1\obj\Debug\U2.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U1\obj\Debug\U2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U1\obj\Debug\U2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U1\bin\Debug\U1.exe.config
+C:\Users\Tatiana\source\repos\U1\bin\Debug\U1.exe
+C:\Users\Tatiana\source\repos\U1\bin\Debug\U1.pdb
+C:\Users\Tatiana\source\repos\U1\obj\Debug\U1.exe
+C:\Users\Tatiana\source\repos\U1\obj\Debug\U1.pdb

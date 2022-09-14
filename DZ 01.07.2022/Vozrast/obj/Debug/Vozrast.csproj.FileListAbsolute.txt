@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\bin\Debug\Vozrast.exe.config
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\bin\Debug\Vozrast.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\bin\Debug\Vozrast.pdb
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Vozrast\obj\Debug\Vozrast.pdb

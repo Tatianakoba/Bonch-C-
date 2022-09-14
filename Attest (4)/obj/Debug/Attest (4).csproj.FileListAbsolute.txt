@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Attest (4)\obj\Debug\Attest (4).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Attest (4)\obj\Debug\Attest (4).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Attest (4)\obj\Debug\Attest (4).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Attest (4)\bin\Debug\Attest (4).exe.config
+C:\Users\Tatiana\source\repos\Attest (4)\bin\Debug\Attest (4).exe
+C:\Users\Tatiana\source\repos\Attest (4)\bin\Debug\Attest (4).pdb
+C:\Users\Tatiana\source\repos\Attest (4)\obj\Debug\Attest (4).exe
+C:\Users\Tatiana\source\repos\Attest (4)\obj\Debug\Attest (4).pdb

@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U4 (Compare)\bin\Debug\U4 (Compare).exe.config
+C:\Users\Tatiana\source\repos\U4 (Compare)\bin\Debug\U4 (Compare).exe
+C:\Users\Tatiana\source\repos\U4 (Compare)\bin\Debug\U4 (Compare).pdb
+C:\Users\Tatiana\source\repos\U4 (Compare)\obj\Debug\U4 (Compare).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U4 (Compare)\obj\Debug\U4 (Compare).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U4 (Compare)\obj\Debug\U4 (Compare).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U4 (Compare)\obj\Debug\U4 (Compare).exe
+C:\Users\Tatiana\source\repos\U4 (Compare)\obj\Debug\U4 (Compare).pdb

@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\bin\Debug\Dni nedeli.exe.config
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\bin\Debug\Dni nedeli.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\bin\Debug\Dni nedeli.pdb
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni_nedeli.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni_nedeli.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Dni nedeli\obj\Debug\Dni nedeli.pdb

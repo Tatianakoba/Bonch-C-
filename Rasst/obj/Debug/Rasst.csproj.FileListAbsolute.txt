@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Rasst\bin\Debug\Rasst.exe.config
+C:\Users\Tatiana\source\repos\Rasst\bin\Debug\Rasst.exe
+C:\Users\Tatiana\source\repos\Rasst\bin\Debug\Rasst.pdb
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.Form1.resources
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.exe
+C:\Users\Tatiana\source\repos\Rasst\obj\Debug\Rasst.pdb

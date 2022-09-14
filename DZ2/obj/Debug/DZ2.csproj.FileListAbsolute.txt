@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\DZ2\bin\Debug\DZ2.exe.config
+C:\Users\Tatiana\source\repos\DZ2\bin\Debug\DZ2.exe
+C:\Users\Tatiana\source\repos\DZ2\bin\Debug\DZ2.pdb
+C:\Users\Tatiana\source\repos\DZ2\obj\Debug\DZ2.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ2\obj\Debug\DZ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ2\obj\Debug\DZ2.exe
+C:\Users\Tatiana\source\repos\DZ2\obj\Debug\DZ2.pdb

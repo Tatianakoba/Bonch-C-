@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\ListBox3\bin\Debug\ListBox3.exe.config
+C:\Users\Tatiana\source\repos\ListBox3\bin\Debug\ListBox3.exe
+C:\Users\Tatiana\source\repos\ListBox3\bin\Debug\ListBox3.pdb
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.Form1.resources
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.exe
+C:\Users\Tatiana\source\repos\ListBox3\obj\Debug\ListBox3.pdb

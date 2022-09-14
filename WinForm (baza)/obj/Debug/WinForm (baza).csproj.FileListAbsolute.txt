@@ -1,0 +1,15 @@
+C:\Users\Tatiana\source\repos\WinForm (baza)\bin\Debug\WinForm (baza).exe.config
+C:\Users\Tatiana\source\repos\WinForm (baza)\bin\Debug\WinForm (baza).exe
+C:\Users\Tatiana\source\repos\WinForm (baza)\bin\Debug\WinForm (baza).pdb
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.DataBaze.resources
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.Main.resources
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).exe
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm (baza).pdb
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.AVG.resources
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.ComboBox.resources
+C:\Users\Tatiana\source\repos\WinForm (baza)\obj\Debug\WinForm__baza_.ListBox.resources

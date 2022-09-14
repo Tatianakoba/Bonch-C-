@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.Form1.resources
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Shelchok\bin\Debug\Shelchok.exe.config
+C:\Users\Tatiana\source\repos\Shelchok\bin\Debug\Shelchok.exe
+C:\Users\Tatiana\source\repos\Shelchok\bin\Debug\Shelchok.pdb
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.exe
+C:\Users\Tatiana\source\repos\Shelchok\obj\Debug\Shelchok.pdb

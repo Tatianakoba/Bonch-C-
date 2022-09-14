@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Tatiana\source\repos\Temperature\bin\Debug\Temperature.exe
+C:\Users\Tatiana\source\repos\Temperature\bin\Debug\Temperature.pdb
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.Form1.resources
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.exe
+C:\Users\Tatiana\source\repos\Temperature\obj\Debug\Temperature.pdb

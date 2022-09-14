@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\bin\Debug\Pigs.exe.config
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\bin\Debug\Pigs.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\bin\Debug\Pigs.pdb
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Pigs\obj\Debug\Pigs.pdb

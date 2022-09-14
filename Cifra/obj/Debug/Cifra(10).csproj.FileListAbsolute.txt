@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Cifra\bin\Debug\Cifra.exe.config
+C:\Users\Tatiana\source\repos\Cifra\bin\Debug\Cifra.exe
+C:\Users\Tatiana\source\repos\Cifra\bin\Debug\Cifra.pdb
+C:\Users\Tatiana\source\repos\Cifra\obj\Debug\Cifra(10).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Cifra\obj\Debug\Cifra(10).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Cifra\obj\Debug\Cifra(10).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Cifra\obj\Debug\Cifra.exe
+C:\Users\Tatiana\source\repos\Cifra\obj\Debug\Cifra.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U7 (Search)\bin\Debug\U7 (Search).exe.config
+C:\Users\Tatiana\source\repos\U7 (Search)\bin\Debug\U7 (Search).exe
+C:\Users\Tatiana\source\repos\U7 (Search)\bin\Debug\U7 (Search).pdb
+C:\Users\Tatiana\source\repos\U7 (Search)\obj\Debug\U7 (Search).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U7 (Search)\obj\Debug\U7 (Search).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U7 (Search)\obj\Debug\U7 (Search).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U7 (Search)\obj\Debug\U7 (Search).exe
+C:\Users\Tatiana\source\repos\U7 (Search)\obj\Debug\U7 (Search).pdb

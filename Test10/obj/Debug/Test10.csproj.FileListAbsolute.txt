@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Test10\bin\Debug\Test10.exe.config
+C:\Users\Tatiana\source\repos\Test10\bin\Debug\Test10.exe
+C:\Users\Tatiana\source\repos\Test10\bin\Debug\Test10.pdb
+C:\Users\Tatiana\source\repos\Test10\obj\Debug\Test10.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Test10\obj\Debug\Test10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Test10\obj\Debug\Test10.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Test10\obj\Debug\Test10.exe
+C:\Users\Tatiana\source\repos\Test10\obj\Debug\Test10.pdb

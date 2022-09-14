@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\PloshPerim\bin\Debug\PloshPerim.exe.config
+C:\Users\Tatiana\source\repos\PloshPerim\bin\Debug\PloshPerim.exe
+C:\Users\Tatiana\source\repos\PloshPerim\bin\Debug\PloshPerim.pdb
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.Form1.resources
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.exe
+C:\Users\Tatiana\source\repos\PloshPerim\obj\Debug\PloshPerim.pdb

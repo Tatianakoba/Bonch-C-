@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Function\bin\Debug\Function.exe.config
+C:\Users\Tatiana\source\repos\Function\bin\Debug\Function.exe
+C:\Users\Tatiana\source\repos\Function\bin\Debug\Function.pdb
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.Form1.resources
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.exe
+C:\Users\Tatiana\source\repos\Function\obj\Debug\Function.pdb

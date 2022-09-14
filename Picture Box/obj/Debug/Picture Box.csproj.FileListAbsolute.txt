@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Picture Box\bin\Debug\Picture Box.exe.config
+C:\Users\Tatiana\source\repos\Picture Box\bin\Debug\Picture Box.exe
+C:\Users\Tatiana\source\repos\Picture Box\bin\Debug\Picture Box.pdb
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture_Box.Form1.resources
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture_Box.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.exe
+C:\Users\Tatiana\source\repos\Picture Box\obj\Debug\Picture Box.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 29.06\bin\Debug\DZ 29.06.exe.config
+C:\Users\Tatiana\source\repos\DZ 29.06\bin\Debug\DZ 29.06.exe
+C:\Users\Tatiana\source\repos\DZ 29.06\bin\Debug\DZ 29.06.pdb
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ_29._06.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ_29._06.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.exe
+C:\Users\Tatiana\source\repos\DZ 29.06\obj\Debug\DZ 29.06.pdb

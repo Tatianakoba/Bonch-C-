@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\lesson 2 part2\bin\Debug\lesson 2 part2.exe.config
+C:\Users\Tatiana\source\repos\lesson 2 part2\bin\Debug\lesson 2 part2.exe
+C:\Users\Tatiana\source\repos\lesson 2 part2\bin\Debug\lesson 2 part2.pdb
+C:\Users\Tatiana\source\repos\lesson 2 part2\obj\Debug\lesson 2 part2.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\lesson 2 part2\obj\Debug\lesson 2 part2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\lesson 2 part2\obj\Debug\lesson 2 part2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\lesson 2 part2\obj\Debug\lesson 2 part2.exe
+C:\Users\Tatiana\source\repos\lesson 2 part2\obj\Debug\lesson 2 part2.pdb

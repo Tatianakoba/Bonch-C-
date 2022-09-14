@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Dvuhzn\bin\Debug\Dvuhzn.exe.config
+C:\Users\Tatiana\source\repos\Dvuhzn\bin\Debug\Dvuhzn.exe
+C:\Users\Tatiana\source\repos\Dvuhzn\bin\Debug\Dvuhzn.pdb
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.Form1.resources
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.exe
+C:\Users\Tatiana\source\repos\Dvuhzn\obj\Debug\Dvuhzn.pdb

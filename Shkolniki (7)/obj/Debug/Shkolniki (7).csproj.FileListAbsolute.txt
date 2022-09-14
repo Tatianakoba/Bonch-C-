@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Shkolniki (7)\bin\Debug\Shkolniki (7).exe.config
+C:\Users\Tatiana\source\repos\Shkolniki (7)\bin\Debug\Shkolniki (7).exe
+C:\Users\Tatiana\source\repos\Shkolniki (7)\bin\Debug\Shkolniki (7).pdb
+C:\Users\Tatiana\source\repos\Shkolniki (7)\obj\Debug\Shkolniki (7).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Shkolniki (7)\obj\Debug\Shkolniki (7).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Shkolniki (7)\obj\Debug\Shkolniki (7).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Shkolniki (7)\obj\Debug\Shkolniki (7).exe
+C:\Users\Tatiana\source\repos\Shkolniki (7)\obj\Debug\Shkolniki (7).pdb

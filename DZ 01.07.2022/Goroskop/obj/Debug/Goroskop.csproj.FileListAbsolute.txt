@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\bin\Debug\Goroskop.exe.config
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\bin\Debug\Goroskop.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\bin\Debug\Goroskop.pdb
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Goroskop\obj\Debug\Goroskop.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.Form1.resources
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Svetofor\bin\Debug\Svetofor.exe.config
+C:\Users\Tatiana\source\repos\Svetofor\bin\Debug\Svetofor.exe
+C:\Users\Tatiana\source\repos\Svetofor\bin\Debug\Svetofor.pdb
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.exe
+C:\Users\Tatiana\source\repos\Svetofor\obj\Debug\Svetofor.pdb

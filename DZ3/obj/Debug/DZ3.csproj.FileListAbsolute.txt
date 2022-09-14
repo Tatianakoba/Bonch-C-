@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\DZ3\obj\Debug\DZ3.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ3\obj\Debug\DZ3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ3\obj\Debug\DZ3.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ3\bin\Debug\DZ3.exe.config
+C:\Users\Tatiana\source\repos\DZ3\bin\Debug\DZ3.exe
+C:\Users\Tatiana\source\repos\DZ3\bin\Debug\DZ3.pdb
+C:\Users\Tatiana\source\repos\DZ3\obj\Debug\DZ3.exe
+C:\Users\Tatiana\source\repos\DZ3\obj\Debug\DZ3.pdb

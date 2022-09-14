@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\bin\Debug\Zodiak.exe.config
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\bin\Debug\Zodiak.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\bin\Debug\Zodiak.pdb
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.Form1.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.exe
+C:\Users\Tatiana\source\repos\DZ 01.07.2022\Zodiak\obj\Debug\Zodiak.pdb

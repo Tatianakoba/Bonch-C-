@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U8 (Split)\bin\Debug\U8 (Split).exe.config
+C:\Users\Tatiana\source\repos\U8 (Split)\bin\Debug\U8 (Split).exe
+C:\Users\Tatiana\source\repos\U8 (Split)\bin\Debug\U8 (Split).pdb
+C:\Users\Tatiana\source\repos\U8 (Split)\obj\Debug\U8 (Split).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U8 (Split)\obj\Debug\U8 (Split).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U8 (Split)\obj\Debug\U8 (Split).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U8 (Split)\obj\Debug\U8 (Split).exe
+C:\Users\Tatiana\source\repos\U8 (Split)\obj\Debug\U8 (Split).pdb

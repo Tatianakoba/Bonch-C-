@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\While\bin\Debug\While.exe.config
+C:\Users\Tatiana\source\repos\While\bin\Debug\While.exe
+C:\Users\Tatiana\source\repos\While\bin\Debug\While.pdb
+C:\Users\Tatiana\source\repos\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\While\obj\Debug\While.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\While\obj\Debug\While.exe
+C:\Users\Tatiana\source\repos\While\obj\Debug\While.pdb

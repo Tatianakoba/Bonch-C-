@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Kub\bin\Debug\Kub.exe.config
+C:\Users\Tatiana\source\repos\Kub\bin\Debug\Kub.exe
+C:\Users\Tatiana\source\repos\Kub\bin\Debug\Kub.pdb
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.Form1.resources
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.exe
+C:\Users\Tatiana\source\repos\Kub\obj\Debug\Kub.pdb

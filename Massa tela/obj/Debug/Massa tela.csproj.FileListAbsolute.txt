@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Massa tela\bin\Debug\Massa tela.exe.config
+C:\Users\Tatiana\source\repos\Massa tela\bin\Debug\Massa tela.exe
+C:\Users\Tatiana\source\repos\Massa tela\bin\Debug\Massa tela.pdb
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa_tela.Form1.resources
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa_tela.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.exe
+C:\Users\Tatiana\source\repos\Massa tela\obj\Debug\Massa tela.pdb

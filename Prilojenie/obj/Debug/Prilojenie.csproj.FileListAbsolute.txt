@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Prilojenie\bin\Debug\Prilojenie.exe.config
+C:\Users\Tatiana\source\repos\Prilojenie\bin\Debug\Prilojenie.exe
+C:\Users\Tatiana\source\repos\Prilojenie\bin\Debug\Prilojenie.pdb
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.exe
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.pdb
+C:\Users\Tatiana\source\repos\Prilojenie\obj\Debug\Prilojenie.Form1.resources

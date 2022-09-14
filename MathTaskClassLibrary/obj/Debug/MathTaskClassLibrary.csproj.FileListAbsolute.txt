@@ -1,0 +1,6 @@
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\Tatiana\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb

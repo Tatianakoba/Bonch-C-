@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Diapazon\bin\Debug\Diapazon.exe.config
+C:\Users\Tatiana\source\repos\Diapazon\bin\Debug\Diapazon.exe
+C:\Users\Tatiana\source\repos\Diapazon\bin\Debug\Diapazon.pdb
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.Form1.resources
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.exe
+C:\Users\Tatiana\source\repos\Diapazon\obj\Debug\Diapazon.pdb

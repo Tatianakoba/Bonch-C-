@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Massiv\bin\Debug\Massiv.exe.config
+C:\Users\Tatiana\source\repos\Massiv\bin\Debug\Massiv.exe
+C:\Users\Tatiana\source\repos\Massiv\bin\Debug\Massiv.pdb
+C:\Users\Tatiana\source\repos\Massiv\obj\Debug\Massiv.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Massiv\obj\Debug\Massiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Massiv\obj\Debug\Massiv.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Massiv\obj\Debug\Massiv.exe
+C:\Users\Tatiana\source\repos\Massiv\obj\Debug\Massiv.pdb

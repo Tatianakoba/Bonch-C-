@@ -1,0 +1,11 @@
+C:\Users\Tatiana\source\repos\Knopka\bin\Debug\Knopka.exe.config
+C:\Users\Tatiana\source\repos\Knopka\bin\Debug\Knopka.exe
+C:\Users\Tatiana\source\repos\Knopka\bin\Debug\Knopka.pdb
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.Form1.resources
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.Properties.Resources.resources
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.csproj.GenerateResource.cache
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.exe
+C:\Users\Tatiana\source\repos\Knopka\obj\Debug\Knopka.pdb

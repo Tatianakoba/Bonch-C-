@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\U9 (Trim)\bin\Debug\U9 (Trim).exe.config
+C:\Users\Tatiana\source\repos\U9 (Trim)\bin\Debug\U9 (Trim).exe
+C:\Users\Tatiana\source\repos\U9 (Trim)\bin\Debug\U9 (Trim).pdb
+C:\Users\Tatiana\source\repos\U9 (Trim)\obj\Debug\U9 (Trim).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\U9 (Trim)\obj\Debug\U9 (Trim).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\U9 (Trim)\obj\Debug\U9 (Trim).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\U9 (Trim)\obj\Debug\U9 (Trim).exe
+C:\Users\Tatiana\source\repos\U9 (Trim)\obj\Debug\U9 (Trim).pdb

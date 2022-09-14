@@ -1,0 +1,6 @@
+C:\Users\Tatiana\source\repos\Calculator\bin\Debug\Calculator.dll
+C:\Users\Tatiana\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Tatiana\source\repos\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Calculator\obj\Debug\Calculator.dll
+C:\Users\Tatiana\source\repos\Calculator\obj\Debug\Calculator.pdb

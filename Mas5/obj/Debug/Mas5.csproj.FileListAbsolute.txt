@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Mas5\bin\Debug\Mas5.exe.config
+C:\Users\Tatiana\source\repos\Mas5\bin\Debug\Mas5.exe
+C:\Users\Tatiana\source\repos\Mas5\bin\Debug\Mas5.pdb
+C:\Users\Tatiana\source\repos\Mas5\obj\Debug\Mas5.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Mas5\obj\Debug\Mas5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Mas5\obj\Debug\Mas5.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Mas5\obj\Debug\Mas5.exe
+C:\Users\Tatiana\source\repos\Mas5\obj\Debug\Mas5.pdb

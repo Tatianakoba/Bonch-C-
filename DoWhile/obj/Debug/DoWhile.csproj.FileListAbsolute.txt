@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\DoWhile\bin\Debug\DoWhile.exe.config
+C:\Users\Tatiana\source\repos\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\Tatiana\source\repos\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\Tatiana\source\repos\DoWhile\obj\Debug\DoWhile.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\DoWhile\obj\Debug\DoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\DoWhile\obj\Debug\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\DoWhile\obj\Debug\DoWhile.exe
+C:\Users\Tatiana\source\repos\DoWhile\obj\Debug\DoWhile.pdb
